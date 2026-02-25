@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm currently a senior undergraduate student at Fuzhou University of Software Engineering.
+- 🔭 I'm currently a postgraduate student at Xi'an Jiaotong University of Software Engineering.
 - 🌱 I’m broadly interested in stuffs regarding Software Engineering, including programming languages, backend development, machine learning ...
 <!-- 👯 I'll join [Key Lab of High Confidence Software Technology, MoE](https://hcst.pku.edu.cn/) at [Peking University](https://cs.pku.edu.cn/) in 2025 Fall as a Ph.D. student under the supervision of [Prof. Bing Xie](https://cs.pku.edu.cn/info/1084/1712.htm).-->
 
